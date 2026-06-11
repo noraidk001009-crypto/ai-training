@@ -1,0 +1,5 @@
+print("My name is Nora.")
+print("I am 12 years old.")
+print("I am a student.")
+print("I like to play pokemon.")
+print(" ")
