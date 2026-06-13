@@ -1,5 +1,0 @@
-# Debug journal
-
-## Bug
-
-## Fix
