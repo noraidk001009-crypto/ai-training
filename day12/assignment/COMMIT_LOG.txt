@@ -1,4 +1,0 @@
-# Paste your three commit messages here
-first commit
-Add Day 12 git commands to demo README
-Add git practice completion note to README
