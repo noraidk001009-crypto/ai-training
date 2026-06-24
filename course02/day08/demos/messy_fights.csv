@@ -1,6 +1,0 @@
-round,command,player_hp,dragon_hp,note
-1,fight,20,12,hit
-2,,18,10,empty command
-3,fight,twenty,8,bad number
-3,fight,18,8,duplicate round
-4, fight ,16,5,spaces

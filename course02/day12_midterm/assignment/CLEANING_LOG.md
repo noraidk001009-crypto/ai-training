@@ -1,1 +1,0 @@
-# Midterm cleaning log
