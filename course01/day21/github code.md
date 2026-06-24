@@ -16,8 +16,8 @@ git push origin main
 ## add one folder
 cd "D:\Nora AI Training"
 
-git add day18
-git commit -m "Update day18 only"
+git add day21
+git commit -m "Update day21 only"
 git push origin main
 
 

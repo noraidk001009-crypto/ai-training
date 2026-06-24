@@ -1,0 +1,17 @@
+# Nora setup notes
+
+## 1) Python version
+The python version is 3.12.10.
+
+## 2) I can find the next lesson folder (yes/no)
+No, I can't find the next lesson folder.
+
+## 3) Contract initials (Nora / Parent)
+NX and TX
+
+## 4) One thing I am excited about
+I will become a pig.
+
+## 5) Two short answers
+- Predict means: To declare or indicate in advance.
+- AI is simple on Day 1 because: I'm a beginner.    
