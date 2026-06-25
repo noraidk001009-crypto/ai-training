@@ -1,5 +1,5 @@
 class Player:
-    def __init__(name, hp):  # BUG: missing self
+    def __init__(self, name, hp):
         self.name = name
         self.hp = hp
 
