@@ -1,0 +1,19 @@
+round,command,damage,player_hp,dragon_hp,winner,note
+
+1,fight,18,15,32,,hit+counter
+2,fight,13,5,19,,hit+counter
+3,fight,0,5,19,,miss
+4,fight,0,5,19,,miss
+5,fight,13,0,6,,hit+counter
+6,end,0,0,6,dragon,
+
+1,fight,16,10,34,,hit+counter
+2,fight,19,2,15,,hit+counter
+3,poison,2,0,15,,2 turns left
+3,end,0,0,15,dragon,
+
+1,fight,17,9,33,,hit+counter
+2,fight,0,9,33,,miss
+3,fight,15,3,18,,hit+counter
+4,fight,19,3,0,,hit
+5,end,0,3,0,player,
