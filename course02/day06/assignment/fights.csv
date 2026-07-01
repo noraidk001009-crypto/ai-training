@@ -1,0 +1,64 @@
+round,command,damage,player_hp,boss_hp,winner,note
+1,fight,6,20,29,,hit
+2,fight,24,13,5,,hit+counter
+3,fight,8,13,0,,hit
+4,end,0,13,0,player,
+
+1,fight,12,20,58,,hit
+
+1,fight,17,11,33,,hit+counter
+2,fight,0,11,33,,miss
+1,fight,0,20,50,,miss
+2,fight,15,11,35,,hit+counter
+3,poison,2,9,35,,2 turns left
+3,fight,12,9,23,,hit
+4,poison,2,7,23,,1 turns left
+4,fight,17,0,6,,hit+counter
+1,fight,0,20,50,,miss
+2,fight,0,20,50,,miss
+3,fight,1,20,49,,hit
+4,fight,0,20,49,,miss
+5,fight,9,20,40,,hit
+6,fight,0,20,40,,miss
+7,fight,15,7,25,,hit+counter
+8,fight,1,7,24,,hit
+9,fight,9,7,15,,hit
+10,fight,15,7,0,,hit
+1,fight,0,20,35,,miss
+2,fight,15,14,20,,hit+counter
+3,poison,2,12,20,,2 turns left
+3,fight,12,12,8,,hit
+4,poison,2,10,8,,1 turns left
+4,fight,17,10,0,,hit
+1,fight,0,20,35,,miss
+2,fight,0,20,35,,miss
+3,fight,1,20,34,,hit
+4,fight,0,20,34,,miss
+5,fight,9,20,25,,hit
+6,fight,0,20,25,,miss
+7,fight,15,10,10,,hit+counter
+8,fight,1,10,9,,hit
+9,fight,9,10,0,,hit
+
+1,fight,0,20,35,,miss
+
+1,fight,0,20,50,,miss
+2,fight,24,9,26,,hit+counter
+3,poison,2,7,26,,2 turns left
+3,defend,0,7,26,,cleared 1 poison
+4,poison,2,5,26,,0 turns left
+4,fight,0,5,26,,miss
+5,fight,0,5,26,,miss
+6,fight,0,5,26,,miss
+7,fight,0,5,26,,miss
+
+1,fight,0,20,35,,miss
+2,fight,0,20,35,,miss
+3,fight,0,20,35,,miss
+4,fight,12,20,23,,hit
+5,fight,0,20,23,,miss
+6,fight,0,20,23,,miss
+7,fight,11,20,12,,hit
+8,fight,13,20,0,,hit
+9,end,0,20,0,player,
+1,fight,0,20,50,,miss
