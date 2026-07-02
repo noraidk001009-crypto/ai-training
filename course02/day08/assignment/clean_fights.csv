@@ -1,0 +1,5 @@
+round,command,player_hp,dragon_hp,note
+1,fight,20,12,hit
+3,fight,18,8,duplicate round
+4,fight,16,5,spaces
+5,poison,14,3,ok
