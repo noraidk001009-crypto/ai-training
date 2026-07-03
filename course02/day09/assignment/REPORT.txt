@@ -1,0 +1,9 @@
+# Fight stats report
+
+Total rounds: 3
+Fight commands: 2
+Wins: 2
+Win rate: 67%
+
+The most-used command was "fight" (2 of 3 rounds).
+You won 2 out of 3 rounds, a 66.7% win rate.

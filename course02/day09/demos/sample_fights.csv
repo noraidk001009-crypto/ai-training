@@ -1,0 +1,4 @@
+round,command,player_hp,dragon_hp,note
+1,fight,20,12,hit
+2,fight,18,5,win
+3,poison,16,0,win
