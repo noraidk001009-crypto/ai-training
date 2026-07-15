@@ -46,6 +46,6 @@ git push origin main
 
 cd "D:\Nora AI Training"
 
-git add "course02/day07"
-git commit -m "Add course02 day07"
+git add "course02/day08"
+git commit -m "Add course02 day08"
 git push origin main
