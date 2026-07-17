@@ -1,0 +1,9 @@
+{
+  "class": "warrior",
+  "player_hp": 20,
+  "boss": {
+    "name": "Dragon",
+    "hp": 50,
+    "atk": 6
+  }
+}
