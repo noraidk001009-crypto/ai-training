@@ -1,0 +1,5 @@
+fight_id,winner,rounds,fights,defends,heals,player_hp_end,boss_hp_end
+1,player,12,10,1,1,9,0
+2,boss,4,4,0,0,0,11
+3,boss,4,4,0,0,0,8
+4,boss,4,4,0,,0,13
