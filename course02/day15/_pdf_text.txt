@@ -1,0 +1,48 @@
+Capstone Data — Reach 20+ Fights
+Day 15
+Lesson 15
+Nora XIE
+Course 02
+Phase 3 — Game Analyst (Track B) Time:60–75 minMode:Self-study
+Today’s goals:
+⋆Reach 20+ rows in fights.csv
+⋆Run summarize + chart on capstone data
+⋆Note one pattern in the numbers
+Course 02quest map: Day 15 of 18
+Hook
+Twenty fights is enough to argue something — not everything. Look for patterns.
+Learn
+/book-readerLearn
+Ask:
+•Which command appears most?
+•Did you win more when defending first?
+•Is dragon HP too high at round 1?
+Update game or JSON if you find a obvious bug — log apatch note.
+♂robotAI rules today
+Predict/Run:AI off.Investigate:Socratic hints only.Make:you review every line.
+Predict Run Investigate Modify Make
+/codeDemo code
+Folder:day15/
+1# Reuse your Day 9/10 scripts on assignment/fights.csv
+2print("Point this at your capstone fights.csv")
+C02·Lesson 15 Game Studio + Data Lab
+/gamepadTry it
+In terminal, cd course02/day15 , then predict output, then run: python
+demos/demo_capstone_stats.py
+♂pencil-altAssignment
+Work in:day15/assignment/
+A — WrittenHypothesis before looking at chart: which command wins most?
+B — Runsummarize.pyandmake_chart.pyon capstone CSV.
+C — Level upTotal fights≥20. Savecapstone_chart.png.
+D — ExplainOne pattern that matched or broke your hypothesis.
+/check-doubleChecklist
+□Re-readLearn; predict outputs (10 min)
+□Assignments A–D (35–45 min)
+□Run your program 3 times with different inputs
+□Stuck 15 min→C-R-A-V (../shared/prompts.md)
+Reflection
+1. Easiest part today?
+2. One line you can teach a friend.
+Tomorrow:Write the analyst report.
+Lesson 15 / Day 15 /Course 02— Game Studio + Data Lab / 2026
+Page 2 / 2
